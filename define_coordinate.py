@@ -1,0 +1,17 @@
+import turtle
+
+screen = turtle.Screen()
+screen.title("Viet Nam Provinces Game")
+screen.setup(width=400, height=783)
+
+image = "Vietnam_location_map.gif"
+screen.addshape(image)
+turtle.shape(image)
+
+def get_mouse_click_coor(x, y):
+    print(x, y)
+
+turtle.onscreenclick(get_mouse_click_coor)
+
+turtle.mainloop()
+screen.exitonclick()
