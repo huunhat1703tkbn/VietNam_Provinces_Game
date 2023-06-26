@@ -1,5 +1,5 @@
 # VietNam_Provinces_Game
-## ** Game guessing the provinces of Vietnam :vietnam: **
+##  Game guessing the provinces of Vietnam :flag_vn: 
 
 **Description of how to play the game "Viet Nam Provinces Game" based on the provided source code:**
 
