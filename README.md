@@ -1,6 +1,6 @@
 # VietNam_Provinces_Game
- Game guessing the provinces of Vietnam 🇻🇳 
- 
+## ** Game guessing the provinces of Vietnam 🇻🇳 **
+
 **Description of how to play the game "Viet Nam Provinces Game" based on the provided source code:**
 
 1. Players will be shown a map of Vietnam with provinces on the screen. 
@@ -14,4 +14,4 @@
     
 This game uses the Turtle library to display the map and pandas to read data from a CSV file containing the names of the provinces. Players need to guess the names of all 63 provinces in Vietnam and place them in the right places on the map by entering the names in the dialog box. 
 
-**Thank you and hope you like it!**__
+**Thank you and hope you like it!**
